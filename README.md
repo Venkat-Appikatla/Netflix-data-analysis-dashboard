@@ -1,5 +1,5 @@
 # Netflix-data-analysis-dashboard
-🚀 Built my first Power BI dashboard using Netflix data to uncover trends in content, budget, and ratings across countries and languages.
+🚀 I Built my first Power BI dashboard using Netflix data to uncover trends in content, budget, and ratings across countries and languages.
 This project showcases my skills in data storytelling, visualization, and real-world analytics.
 
 
